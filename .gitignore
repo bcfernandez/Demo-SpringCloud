@@ -1,4 +1,5 @@
-.project 
+.project
+.target
 
 # Compiled class file
 *.class
